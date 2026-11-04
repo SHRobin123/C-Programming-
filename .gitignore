@@ -1,0 +1,12 @@
+# Compiled programs (any file without an extension)
+*
+!*.*
+!*/
+
+# Object files and build output
+*.o
+*.out
+*.exe
+
+# Editor
+.vscode/
